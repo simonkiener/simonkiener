@@ -11,7 +11,7 @@
 
 ***
 
-### Projects and Content
+### Projects & Content
 
 - Comming soon ..
 
