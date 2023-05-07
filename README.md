@@ -9,6 +9,7 @@
 - 💻 Software Engineer
 - 👨‍💻 Software Engineer and Computer science student at Bern University of Applied Sciences
 
+***
 
 ### Projects & Content
 
