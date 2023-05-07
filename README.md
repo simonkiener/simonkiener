@@ -2,6 +2,8 @@
 
 ### Profile
 
+***
+
 - 👋 Hi, I’m @simonkiener
 - 📌 Switzerland - Thun
 - 💻 Software Engineer
