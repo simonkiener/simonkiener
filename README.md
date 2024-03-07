@@ -6,8 +6,8 @@
 
 - 👋 Hi, I’m @simonkiener
 - 📌 Switzerland - Thun
-- 💻 Software Engineer 
-- 👨‍💻 Software Engineer and Computer science student at Bern University of Applied Sciences
+- 💻 Software Developer 
+- 👨‍💻 Software Developer and Computer science student at Bern University of Applied Sciences
 
 ***
 
